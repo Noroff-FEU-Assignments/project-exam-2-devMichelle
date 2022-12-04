@@ -12,7 +12,7 @@
 # Reflection
 
 This assignment was challanging, i've run into a lot of problem along the way, challanged my self with using Tailwind and Typescript. Wish now that i had'nt. 
-I'm most happy with the design. there is some functionality i wish was better, such as the react on post and reply to comments and more. And im not happy with my folder structure. Time was short for cleanup, and this report section of the task.  
+I'm most happy with the design. there is some functionality i wish was better, such as the react on post and reply to comments and more. And im not happy with my folder structure and the messy code. Time was short for cleanup, and this report section of the task.  
 
 # Getting Started with Create React App
 
