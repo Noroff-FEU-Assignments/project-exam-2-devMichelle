@@ -1,3 +1,19 @@
+# Get started
+
+- cone or download repository
+- run install in terminal
+- run npm run start to run the project locally. 
+
+# Accsess
+- Create a user with an @noroff.no or @stud.noroff.no email account
+- create your password and logg in
+
+
+# Reflection
+
+This assignment was challanging, i've run into a lot of problem along the way, challanged my self with using Tailwind and Typescript. Wish now that i had'nt. 
+I'm most happy with the design. there is some functionality i wish was better, such as the react on post and reply to comments and more. And im not happy with my folder structure. Time was short for cleanup, and this report section of the task.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +60,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
