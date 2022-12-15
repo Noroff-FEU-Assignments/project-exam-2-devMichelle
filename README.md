@@ -1,64 +1,110 @@
-# Get started
+# The Network (Project exam)
 
-- cone or download repository
-- run install in terminal
-- run npm run start to run the project locally. 
+![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
 
-# Accsess
-- Create a user with an @noroff.no or @stud.noroff.no email account
-- create your password and logg in
+The Network is a social media platform where people in tech can connect and share from their day to day life, projects and work. 
+
+Check out [The Network](https://thenetworkapp.netlify.app) 
+
+
+
+## Given brief for the project exam
+
+An existing Social Media company has approached you to create a brand new front end for their application. While they have a list of required features, the design and user experience has not been specified. Working with the official API documentation, plan, design and build a modern front end social media application.
+
+### The Network is built with
+
+- [React.js](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [DaisyUI](https://daisyui.com/)
+
+### API
+
+The API for this project is provided by Noroff and can be found in the [Noroff API documentation](https://noroff-api-docs.netlify.app/) under Social EndPoints. 
+
+### Storage
+
+- [Firebase](https://firebase.google.com/)
+
+### Planning and design tools
+
+- [Trello](https://trello.com/)
+- [Adobe XD](https://www.adobe.com/creativecloud.html)
+
+
+## Get Started
+
+To get started, follow the steps below
+
+### Install 
+
+1. Clone the repo:
+
+```bash
+git clone git@github.com:Noroff-FEU-Assignments/project-exam-2-devMichelle.git
+```
+
+2. Install the dependencies by running npm install in terminal: 
+
+```
+npm install
+```
+
+### Running
+
+To run the website/app run the following commands in terminal:
+
+```bash
+npm run start
+```
+
+### Sign up
+
+To get access to this platform you first need to registrer for an account.
+
+- Create an account with an @noroff.no or @stud.noroff.no email account. 
+  ( e.g janedoe@noroff.no )
+
+If you already have an account you can skip this step and log in. 
+
+#### Guidelines
+
+- Registering for an account is free
+- Any posts created must be as real as possible to maintain the quality of the API
+- All posts and profiles must be user friendly
+
+
+
+## Contact
+
+[My LinkedIn page](https://www.linkedin.com/in/michelle-kristine-narverud-11052715b/)
+
+
 
 
 # Reflection
 
-This assignment was challanging, i've run into a lot of problem along the way, challanged my self with using Tailwind and Typescript. Wish now that i had'nt. 
-I'm most happy with the design. there is some functionality i wish was better, such as the react on post and reply to comments and more. And im not happy with my folder structure and the messy code. Time was short for cleanup, and this report section of the task.  
+This assignment was challenging but fun to work on. All the planning and design of the project went well, this is were i feel I can be more creative an try out different consepts and design, though I often end up making some changes under development when i see what works an not and get a better feel of the flow of the pages. 
+I ran into some of problems along the way and learned a lot from problemsolving (along whith some frustration)  
+I challenged my self with using Tailwind and Typescript wich I havent used on bigger projects before. Typescript especially gave me some headaches along the way. The project might have run a little smoother if i had stuck to regular javaScript and a CSS Framework that i was more familiar with.
+I am happy with the design of the project, all though there is some features and placings i would make changes to.
+There is also some functionality i wish was better and that i probably will work more on later on. 
 
-# Getting Started with Create React App
+Some of the changes i would do: 
+- I would make the posts wider, i think this would look better from a design perspective. 
+- Have the option to react to the post on the same page as the comments. 
+- I struggled to get the reply comment to show up correctly underneath the original comment. 
+- Im not happy with the reaction picker on the posts. 
+- Would change the options button to not have the hoverfunction and also have a confirmation box before deleting posts. 
+- implement the ability to edit your posts. 
+- have the opportunity to upload images using URL
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Im am also not happy with my folder and code structure so i might re-structure this at some point. But I didn't take the chance on doing this now and risk breaking the whole project before deadline.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 
