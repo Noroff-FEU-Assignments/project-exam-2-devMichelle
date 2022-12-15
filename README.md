@@ -1,6 +1,6 @@
 # The Network (Project exam)
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image](project-exam2-screenshot.png)
 
 The Network is a social media platform where people in tech can connect and share from their day to day life, projects and work. 
 
